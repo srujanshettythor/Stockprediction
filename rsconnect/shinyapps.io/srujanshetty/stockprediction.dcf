@@ -1,0 +1,10 @@
+name: stockprediction
+title:
+username: srujanshetty
+account: srujanshetty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12278359
+bundleId: 8827789
+url: https://srujanshetty.shinyapps.io/stockprediction/
+version: 1
